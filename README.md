@@ -184,7 +184,7 @@
 
 ## 对外接口（供其他 Mod 调用）
 
-已提供一组公开 API，便于像 ChillPatcher 这样的插件在运行时联动 AIChat。
+已提供一组公开 API，便于其他插件在运行时联动 AIChat。
 
 - 插件 GUID：`com.username.chillaimod`
 - API 接口定义：`AIChat/Interop/AIChatPublicApi.cs`
